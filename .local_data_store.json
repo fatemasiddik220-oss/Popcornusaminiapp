@@ -1,0 +1,37 @@
+{
+  "users": [],
+  "referrals": {},
+  "transactions": {},
+  "config": {
+    "popUsdRate": 0.001,
+    "instantReferralBonusPOP": 100,
+    "referral_bonus": 100,
+    "referralBonusAmount": 100,
+    "referralCommissionPercent": 10,
+    "squadCommissionRate": 10,
+    "weeklyContestMinThreshold": 40,
+    "weeklyPrizesUsdt": {
+      "first": 1,
+      "second": 0.6,
+      "third": 0.3
+    },
+    "withdrawalFeePercent": 7,
+    "minWithdrawAmount": 100,
+    "maxWithdrawAmount": 50000,
+    "mandatoryTelegramChannel": "@popcorn_officials",
+    "mandatoryChannelLink": "https://t.me/popcorn_officials",
+    "channelUrl": "https://t.me/PopCornUSA_BOT",
+    "telegramBotUsername": "PopCornUSA_bot",
+    "botUsername": "PopCornUSA_bot",
+    "telegramSupportUsername": "@popcorn_officials",
+    "telegramSupportUrl": "https://t.me/popcorn_officials",
+    "whatsappSupportNumber": "+1 (555) 019-2834",
+    "whatsappSupportUrl": "https://wa.me/15550192834",
+    "antiCheatEnabled": true,
+    "adProvider": "adsgram",
+    "adProviderSecret": "12345",
+    "interstitialAdIntervalMinutes": 5,
+    "interstitialAdInitialDelayMinutes": 3,
+    "welcomeBannerUrl": "https://i.postimg.cc/8c4vM4H8/banner.jpg"
+  }
+}
